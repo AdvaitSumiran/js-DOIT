@@ -1,0 +1,445 @@
+/* Add this to your style.css file */
+
+/* Navigation bar styles */
+nav {
+    background-color: #333;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #fff;
+    margin: 0 10px;
+    font-size: 18px;
+  }
+  
+  /* Header styles */
+  h1 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 24px;
+  }
+  
+  /* Button styles */
+  button {
+    background-color: #007acc;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 10px;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #005faa;
+  }
+  
+  /* Body styles */
+  body {
+    background-color: #212121;
+    color: #fff;
+    font-family: Arial, sans-serif;
+  }
+  /* Add this to your style.css file */
+  
+  /* Reset default margin and padding */
+  body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Navigation bar styles */
+  nav {
+    background-color: #333;
+    text-align: center;
+    padding: 20px 0;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #fff;
+    margin: 0 20px;
+    font-size: 18px;
+    transition: color 0.3s ease;
+  }
+  
+  nav a:hover {
+    color: #007acc;
+  }
+  
+  /* Header styles */
+  h1 {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 36px;
+    color: #007acc;
+  }
+  
+  /* Button styles */
+  button {
+    background-color: #007acc;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #005faa;
+  }
+  
+  /* Body styles */
+  body {
+    background-color: #f0f0f0;
+    color: #333;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  /* Center the buttons */
+  button#start, button#stop {
+    margin: 20px;
+  }
+  
+  /* Footer styles */
+  footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0px -4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Add this to your style.css file */
+  
+  /* Reset default margin and padding */
+  body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Navigation bar styles */
+  nav {
+    background-color: #007acc;
+    text-align: center;
+    padding: 20px 0;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #fff;
+    margin: 0 20px;
+    font-size: 18px;
+    transition: color 0.3s ease;
+    text-transform: uppercase;
+  }
+  
+  nav a:hover {
+    color: #005faa;
+  }
+  
+  /* Header styles */
+  h1 {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 36px;
+    color: #007acc;
+    text-transform: uppercase;
+  }
+  
+  /* Button styles */
+  button {
+    background-color: #007acc;
+    color: #fff;
+    border: none;
+    padding: 15px 30px;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 20px;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+    text-transform: uppercase;
+  }
+  
+  button:hover {
+    background-color: #005faa;
+  }
+  
+  /* Body styles */
+  body {
+    background-color: #f0f0f0;
+    color: #333;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  /* Center the buttons */
+  button#start, button#stop {
+    margin: 20px;
+  }
+  
+  /* Footer styles */
+  footer {
+    text-align: center;
+    background-color: #007acc;
+    color: #fff;
+    padding: 20px 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0px -4px 6px rgba(0, 0, 0, 0.1);
+    text-transform: uppercase;
+  }
+  
+  /* Add this to your style.css file */
+  
+  /* Reset default margin and padding */
+  body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Navigation bar styles */
+  nav {
+    background-color: #007acc;
+    text-align: center;
+    padding: 20px 0;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #fff;
+    margin: 0 20px;
+    font-size: 18px;
+    transition: color 0.3s ease;
+    text-transform: uppercase;
+  }
+  
+  nav a:hover {
+    color: #005faa;
+  }
+  
+  /* Header styles */
+  h1 {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 36px;
+    color: #007acc;
+    text-transform: uppercase;
+  }
+  
+  /* Button styles */
+  button {
+    background-color: #007acc;
+    color: #fff;
+    border: none;
+    padding: 15px 30px;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 20px;
+    border-radius: 8px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    text-transform: uppercase;
+    overflow: hidden;
+  }
+  
+  button:hover {
+    background-color: #005faa;
+    transform: scale(1.05);
+  }
+  
+  /* Body styles */
+  body {
+    background-color: #f0f0f0;
+    color: #333;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  /* Center the buttons */
+  button#start, button#stop {
+    margin: 20px;
+  }
+  
+  /* Footer styles */
+  footer {
+    text-align: center;
+    background-color: #007acc;
+    color: #fff;
+    padding: 20px 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0px -4px 6px rgba(0, 0, 0, 0.1);
+    text-transform: uppercase;
+  }
+  
+  /* Add this to your style.css file */
+  
+  /* Reset default margin and padding */
+  body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Navigation bar styles */
+  nav {
+    background-color: #007acc;
+    text-align: center;
+    padding: 20px 0;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease;
+  }
+  
+  nav:hover {
+    background-color: #005faa;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #fff;
+    margin: 0 20px;
+    font-size: 18px;
+    transition: color 0.3s ease;
+    text-transform: uppercase;
+  }
+  
+  nav a:hover {
+    color: #005faa;
+  }
+  
+  /* Header styles */
+  h1 {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 36px;
+    color: #007acc;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    animation: glow 2s infinite alternate;
+  }
+  
+  /* Button styles */
+  button {
+    background-color: #007acc;
+    color: #fff;
+    border: none;
+    padding: 15px 30px;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 20px;
+    border-radius: 8px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    text-transform: uppercase;
+    overflow: hidden;
+    position: relative;
+    animation: pulse 1s infinite;
+  }
+  
+  button:hover {
+    background-color: #005faa;
+    transform: scale(1.05);
+    animation: none;
+  }
+  
+  /* Add a subtle shadow on button press */
+  button:active {
+    transform: scale(0.98);
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Body styles */
+  body {
+    background-color: #f0f0f0;
+    color: #333;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+  }
+  
+  /* Center the buttons */
+  button#start, button#stop {
+    margin: 20px;
+  }
+  
+  /* Footer styles */
+  footer {
+    text-align: center;
+    background-color: #007acc;
+    color: #fff;
+    padding: 20px 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0px -4px 6px rgba(0, 0, 0, 0.1);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
+  
+  /* Add a spinning animation to the footer */
+  @keyframes spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
+  footer:hover {
+    animation: spin 1s infinite linear;
+  }
+  
+  /* Animation for header */
+  @keyframes glow {
+    from {
+      text-shadow: 0 0 10px #007acc, 0 0 20px #007acc, 0 0 30px #005faa;
+    }
+    to {
+      text-shadow: 0 0 20px #007acc, 0 0 30px #007acc, 0 0 40px #005faa;
+    }
+  }
+  
+  /* Animation for buttons */
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.1);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  
+  
